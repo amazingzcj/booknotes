@@ -5,4 +5,5 @@
 ### 书单
 
 > - [ES6标准入门（第3版）](http://es6.ruanyifeng.com/)
+> - [TypeScript 入门教程](https://ts.xcatliu.com/)
 
